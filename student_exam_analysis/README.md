@@ -38,21 +38,21 @@ The analysis aims to answer the following questions:
 
 ## 5. EXCEL Analysis & Insights
  
- ### Relationship between Atendance and Study Hour?
+ ### A. Relationship between Atendance and Study Hour?
 
 Students studied the most for 9–11 hours, which is consistent across attendance levels of 50–60%, 70–80%, and 90–100% and third common across attendance level of 60-70% and 80-90%. The next most common study duration was 7–9 hours, particularly among students with 60–70% attendance, followed by those within 80–90%, 50–60%, and 90–100% attendance levels. The least common study durations were 1–3 hours and 3–5 hours across all attendance categories.
 
 ![Atendance VS Study Hour](student_exam_analysis/PNG/Student1.gif)
 ---
 
-###  Did Student Study Hour Increase?
+### B. Did Student Study Hour Increase?
 
 Students increased their study hours for the exam compared to their previous reading time. This implies that the decline in student performance during the exam was not due to reduced study hours
 
 ![Study Hour ](student_exam_analysis/PNG/Study_hour.png)
 ---
 
-### Comparison Between Previous Score and Exam Score?
+###  C. Comparison Between Previous Score and Exam Score?
 
 - The highest average previous score was 70.4, recorded by students who studied for 9–11 hours.
 - while the highest exam score average was 43.1, achieved by students who studied for 11–13 hours. 
@@ -63,7 +63,7 @@ This indicates that longer study hours were linked to better performance; althou
 
 ![Previous Score Vs Exam Score ](student_exam_analysis/PNG/Student3.gif)
 ---
-### Relation Between Study Hour And Exam Score?
+### D. Relation Between Study Hour And Exam Score?
 
 - 12–14 hours → 44.1
 - 10–12 hours → 40.1
@@ -75,14 +75,14 @@ This further supports a positive relationship between time spent studying and ex
 
 ![Study Hour Vs Exam Score ](student_exam_analysis/PNG/Student2.gif)
 ---
-###  Fail% between Previous and Examscore?
+### E.  Fail% between Previous and Examscore?
 
 The Analysis highlights the difference in the *percentage of students who failed previously versus those who failed in the latest exam*
 A higher failure rate was observed in the exam compared to previous assessments.
 
 ![Previous Vs Examscore ](student_exam_analysis/PNG/Fail.png)
 ---
-### Does attendance affect student grade? 
+### F. Does attendance affect student grade? 
 
 The data shows that students with 81–90% attendance recorded the highest number of failures (49 students).
 This was followed by:
