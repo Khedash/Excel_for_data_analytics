@@ -2,7 +2,7 @@
 # STUDENT EXAM SCORE ANALYSIS  
 This project analyzes student performance using Excel, Pivot Tables, and Pivot Charts.
 
-*Portfolio Project by **Ambali Ayishat (Data Analyst)**  
+Portfolio Project by **Ambali Ayishat (Data Analyst)**  
 ---
 
 ## 1 INTRODUCTION
